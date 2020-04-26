@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/farm-website/static/css/main.bf8f58ab.chunk.css",
-    "main.js": "/farm-website/static/js/main.83f88992.chunk.js",
-    "main.js.map": "/farm-website/static/js/main.83f88992.chunk.js.map",
+    "main.css": "/farm-website/static/css/main.4d4a2601.chunk.css",
+    "main.js": "/farm-website/static/js/main.adf5122c.chunk.js",
+    "main.js.map": "/farm-website/static/js/main.adf5122c.chunk.js.map",
     "runtime-main.js": "/farm-website/static/js/runtime-main.4dcd9827.js",
     "runtime-main.js.map": "/farm-website/static/js/runtime-main.4dcd9827.js.map",
     "static/js/2.2a6f587a.chunk.js": "/farm-website/static/js/2.2a6f587a.chunk.js",
     "static/js/2.2a6f587a.chunk.js.map": "/farm-website/static/js/2.2a6f587a.chunk.js.map",
     "index.html": "/farm-website/index.html",
-    "precache-manifest.d8356048b66c7a843d20254af39719cb.js": "/farm-website/precache-manifest.d8356048b66c7a843d20254af39719cb.js",
+    "precache-manifest.cfa0767ae1cfcebb421dd476258b0091.js": "/farm-website/precache-manifest.cfa0767ae1cfcebb421dd476258b0091.js",
     "service-worker.js": "/farm-website/service-worker.js",
-    "static/css/main.bf8f58ab.chunk.css.map": "/farm-website/static/css/main.bf8f58ab.chunk.css.map",
+    "static/css/main.4d4a2601.chunk.css.map": "/farm-website/static/css/main.4d4a2601.chunk.css.map",
     "static/js/2.2a6f587a.chunk.js.LICENSE.txt": "/farm-website/static/js/2.2a6f587a.chunk.js.LICENSE.txt",
-    "static/media/Stylized-Chicken-Line-Art.svg": "/farm-website/static/media/Stylized-Chicken-Line-Art.83d0d349.svg"
+    "static/media/johnny_automatic_chicken.svg": "/farm-website/static/media/johnny_automatic_chicken.5e4ae55a.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.4dcd9827.js",
     "static/js/2.2a6f587a.chunk.js",
-    "static/css/main.bf8f58ab.chunk.css",
-    "static/js/main.83f88992.chunk.js"
+    "static/css/main.4d4a2601.chunk.css",
+    "static/js/main.adf5122c.chunk.js"
   ]
 }
