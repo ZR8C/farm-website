@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/farm-website/static/css/main.d1b05096.chunk.css",
+    "main.css": "/farm-website/static/css/main.d3325ab4.chunk.css",
     "main.js": "/farm-website/static/js/main.9e1db027.chunk.js",
     "main.js.map": "/farm-website/static/js/main.9e1db027.chunk.js.map",
     "runtime-main.js": "/farm-website/static/js/runtime-main.4dcd9827.js",
@@ -8,16 +8,16 @@
     "static/js/2.2a6f587a.chunk.js": "/farm-website/static/js/2.2a6f587a.chunk.js",
     "static/js/2.2a6f587a.chunk.js.map": "/farm-website/static/js/2.2a6f587a.chunk.js.map",
     "index.html": "/farm-website/index.html",
-    "precache-manifest.5f9e8324c43d4f9c34eb98aaec12e052.js": "/farm-website/precache-manifest.5f9e8324c43d4f9c34eb98aaec12e052.js",
+    "precache-manifest.bdb592f5cf0e7edd7d38609e12f6aa3b.js": "/farm-website/precache-manifest.bdb592f5cf0e7edd7d38609e12f6aa3b.js",
     "service-worker.js": "/farm-website/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/farm-website/static/css/main.d1b05096.chunk.css.map",
+    "static/css/main.d3325ab4.chunk.css.map": "/farm-website/static/css/main.d3325ab4.chunk.css.map",
     "static/js/2.2a6f587a.chunk.js.LICENSE.txt": "/farm-website/static/js/2.2a6f587a.chunk.js.LICENSE.txt",
     "static/media/Stylized-Chicken-Line-Art.svg": "/farm-website/static/media/Stylized-Chicken-Line-Art.83d0d349.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.4dcd9827.js",
     "static/js/2.2a6f587a.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
+    "static/css/main.d3325ab4.chunk.css",
     "static/js/main.9e1db027.chunk.js"
   ]
 }
