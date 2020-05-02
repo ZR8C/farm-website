@@ -12,13 +12,51 @@ code {
     monospace;
 }
 
+/*body, html {*/
+/*  height: 100%;*/
+/*  margin: 0;*/
+/*}*/
+
+
 /*.photo {*/
 /*  height: 50px;*/
 /*  width: 50px;*/
 /*}*/
 
-.chickenshelf {
-  display: grid;
-  grid-template-columns: auto auto auto ;
-  grid-gap: 1rem;
+.eggshelf {
+  display: flex;
+  flex-flow: row wrap;
+  flex-basis: 80%;
+  /*grid-template-columns: 200px 200px 200px ;*/
+  /*grid-gap: 0;*/
 }
+
+.chicken {
+  /*padding: 20px;*/
+  /*background-color: white;*/
+  margin: 20px;
+}
+
+p {
+  color: white;
+}
+
+h1 {
+  color: white;
+
+}
+a {
+  color:#2C3C46ff;
+  background: white;
+  padding: 5px;
+  text-decoration: none;
+}
+a:visited {
+  color:#2C3C46ff;
+}
+
+/*$color1: #2C3C46ff;
+$color2: #39AA71ff;
+$color3: #AA0000ff;
+$color4: #A75E4Eff;
+$color5: #008080ff;*/

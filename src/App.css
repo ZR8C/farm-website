@@ -28,11 +28,68 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+/*nav li {*/
+/*  display: inline-block;*/
+/*  list-style-type: none;*/
+/*  padding-left: 20px;*/
+/*}*/
+
+body {
+  /*background-image: url(/home.jpg);*/
+  background: url(/home_hq_2.jpg) no-repeat center center fixed;
+  background-size: cover;
+  /*display: -webkit-flex;*/
+  /*display: flex;*/
+  /*height: 100%;*/
+  /*width: 100%;*/
+  /*background-size: 100%;*/
+
+  /*background-attachment: scroll;*/
+
+  /*background-position: center;*/
+  /*background-repeat: no-repeat;*/
+  /*background-size: cover;*/
+
 }
+
+.logo {
+  width: 200px;
+  height: 200px;
+  /*background: #008080ff;*/
+}
+
+.header-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  /*padding: 10pz;*/
+}
+
+/*ul {*/
+/*  flex-direction: row;*/
+/*}*/
+
+nav ul {
+  display: flex;
+  /*flex-direction: row;*/
+  /*justify-content: space-between;*/
+  /*align-items: baseline;*/
+  /*margin-left: auto;*/
+  /*float: right;*/
+  /*padding: 10px;*/
+}
+
+li {
+  list-style: none;
+  /*margin-left: auto;*/
+  /*order: 2;*/
+  /*flex-direction: column;*/
+  /*text-align: center;*/
+  padding: 10px;
+}
+
+/*$color1: #2C3C46ff;
+$color2: #39AA71ff;
+$color3: #AA0000ff;
+$color4: #A75E4Eff;
+$color5: #008080ff;*/
