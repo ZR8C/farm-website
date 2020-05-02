@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/farm-website/static/css/main.4c65c8dc.chunk.css",
-    "main.js": "/farm-website/static/js/main.560cca8e.chunk.js",
-    "main.js.map": "/farm-website/static/js/main.560cca8e.chunk.js.map",
+    "main.js": "/farm-website/static/js/main.977aad45.chunk.js",
+    "main.js.map": "/farm-website/static/js/main.977aad45.chunk.js.map",
     "runtime-main.js": "/farm-website/static/js/runtime-main.4dcd9827.js",
     "runtime-main.js.map": "/farm-website/static/js/runtime-main.4dcd9827.js.map",
-    "static/js/2.024f1f44.chunk.js": "/farm-website/static/js/2.024f1f44.chunk.js",
-    "static/js/2.024f1f44.chunk.js.map": "/farm-website/static/js/2.024f1f44.chunk.js.map",
+    "static/js/2.bf2eb536.chunk.js": "/farm-website/static/js/2.bf2eb536.chunk.js",
+    "static/js/2.bf2eb536.chunk.js.map": "/farm-website/static/js/2.bf2eb536.chunk.js.map",
     "index.html": "/farm-website/index.html",
-    "precache-manifest.104f471ac98305a4fea03236bdfdc47e.js": "/farm-website/precache-manifest.104f471ac98305a4fea03236bdfdc47e.js",
+    "precache-manifest.25e02f52c68a295aea538ecea4f4691e.js": "/farm-website/precache-manifest.25e02f52c68a295aea538ecea4f4691e.js",
     "service-worker.js": "/farm-website/service-worker.js",
     "static/css/main.4c65c8dc.chunk.css.map": "/farm-website/static/css/main.4c65c8dc.chunk.css.map",
-    "static/js/2.024f1f44.chunk.js.LICENSE.txt": "/farm-website/static/js/2.024f1f44.chunk.js.LICENSE.txt",
+    "static/js/2.bf2eb536.chunk.js.LICENSE.txt": "/farm-website/static/js/2.bf2eb536.chunk.js.LICENSE.txt",
     "static/media/Bea Egg.jpg": "/farm-website/static/media/Bea Egg.7173b662.jpg",
     "static/media/Bea.jpg": "/farm-website/static/media/Bea.87b776ab.jpg",
     "static/media/Belinda Egg.jpg": "/farm-website/static/media/Belinda Egg.ec7e9a8d.jpg",
@@ -34,8 +34,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4dcd9827.js",
-    "static/js/2.024f1f44.chunk.js",
+    "static/js/2.bf2eb536.chunk.js",
     "static/css/main.4c65c8dc.chunk.css",
-    "static/js/main.560cca8e.chunk.js"
+    "static/js/main.977aad45.chunk.js"
   ]
 }
