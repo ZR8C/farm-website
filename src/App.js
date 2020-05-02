@@ -2,6 +2,8 @@ import React from 'react';
 import './App.css';
 import EggShelf from "./component/eggshelf"
 
+import logo from './logo.png'
+
 import {
     BrowserRouter as Router,
     Route,
@@ -15,7 +17,7 @@ function App() {
       <Router basename="/">
           <div className="home">
               <div className="header-container">
-                  <img className="logo" src={"logo.png"} alt="logo"/>
+                  <img className="logo" src={logo} alt="logo"/>
 
                   <nav>
                       <ul>

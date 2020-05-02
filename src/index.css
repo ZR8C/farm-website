@@ -60,3 +60,8 @@ $color2: #39AA71ff;
 $color3: #AA0000ff;
 $color4: #A75E4Eff;
 $color5: #008080ff;*/
+
+.photo {
+  width: 250px;
+  height: 250px;
+}

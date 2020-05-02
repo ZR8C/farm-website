@@ -36,7 +36,7 @@
 
 body {
   /*background-image: url(/home.jpg);*/
-  background: url(/home_hq_2.jpg) no-repeat center center fixed;
+  background: url(./home_hq_2.jpg) no-repeat center center fixed;
   background-size: cover;
   /*display: -webkit-flex;*/
   /*display: flex;*/
