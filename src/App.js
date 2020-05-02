@@ -12,7 +12,7 @@ import {
 
 function App() {
   return (
-      <Router>
+      <Router basename="/">
           <div className="home">
               <div className="header-container">
                   <img className="logo" src={"logo.png"} alt="logo"/>
@@ -38,7 +38,7 @@ function App() {
                   <Route path="/eggs" component={EggShelf}>
                   </Route>
 
-                  <Route path="/"></Route>
+                  <Route exact path="/"></Route>
                   <Route path="/about"></Route>
               </Switch>
           </div>

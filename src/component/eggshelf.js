@@ -52,7 +52,7 @@ class EggShelf extends React.Component {
             return (
                 <div className="eggshelf">
                     {items.chickens.map(item => (
-                        <Chicken name={item.name} price={item.eggPrice} file={'chickens/' + item.name.toLowerCase() + '.png'}/>
+                        <Chicken name={item.name} price={item.eggPrice} file={'chickens/' + item.name + '.jpg'}/>
                     ))}
                 </div>
             )
