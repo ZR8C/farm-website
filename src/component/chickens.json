@@ -1,31 +1,44 @@
 {
   "chickens": [
     {
+      "id": 1,
       "name": "Bea",
       "eggPrice": 15.49
     }, {
+      "id": 2,
       "name": "Belinda",
       "eggPrice": 12.49
     }, {
+      "id": 3,
       "name": "Bertie",
       "eggPrice": 10.49
     }, {
+      "id": 4,
       "name": "Brenda",
       "eggPrice": 29.99
     }, {
+      "id": 5,
+      "name": "Dottie",
+      "eggPrice": 16.49
+    }, {
+      "id": 6,
       "name": "Helen",
       "eggPrice": 15.49
     }, {
+      "id": 7,
       "name": "Millie",
       "eggPrice": 15.49
     }, {
+      "id": 8,
       "name": "Pearl",
       "eggPrice": 15.49
     }, {
+      "id": 9,
       "name": "Poppy",
       "eggPrice": 115.49
     }, {
-      "name": "Bea",
+      "id": 10,
+      "name": "Ruth",
       "eggPrice": 15123.49
     }
   ]
