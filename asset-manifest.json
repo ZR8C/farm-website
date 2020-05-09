@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/farm-website/static/css/main.fe066393.chunk.css",
-    "main.js": "/farm-website/static/js/main.822a8977.chunk.js",
-    "main.js.map": "/farm-website/static/js/main.822a8977.chunk.js.map",
+    "main.css": "/farm-website/static/css/main.90946b3f.chunk.css",
+    "main.js": "/farm-website/static/js/main.fc0cce84.chunk.js",
+    "main.js.map": "/farm-website/static/js/main.fc0cce84.chunk.js.map",
     "runtime-main.js": "/farm-website/static/js/runtime-main.4dcd9827.js",
     "runtime-main.js.map": "/farm-website/static/js/runtime-main.4dcd9827.js.map",
-    "static/js/2.cc0d36e5.chunk.js": "/farm-website/static/js/2.cc0d36e5.chunk.js",
-    "static/js/2.cc0d36e5.chunk.js.map": "/farm-website/static/js/2.cc0d36e5.chunk.js.map",
+    "static/js/2.31d282d2.chunk.js": "/farm-website/static/js/2.31d282d2.chunk.js",
+    "static/js/2.31d282d2.chunk.js.map": "/farm-website/static/js/2.31d282d2.chunk.js.map",
     "index.html": "/farm-website/index.html",
-    "precache-manifest.cdf3115dbdecff201093b0c1a0582b15.js": "/farm-website/precache-manifest.cdf3115dbdecff201093b0c1a0582b15.js",
+    "precache-manifest.7060d9b8cf7f558f6870933804ae5f6a.js": "/farm-website/precache-manifest.7060d9b8cf7f558f6870933804ae5f6a.js",
     "service-worker.js": "/farm-website/service-worker.js",
-    "static/css/main.fe066393.chunk.css.map": "/farm-website/static/css/main.fe066393.chunk.css.map",
-    "static/js/2.cc0d36e5.chunk.js.LICENSE.txt": "/farm-website/static/js/2.cc0d36e5.chunk.js.LICENSE.txt",
+    "static/css/main.90946b3f.chunk.css.map": "/farm-website/static/css/main.90946b3f.chunk.css.map",
+    "static/js/2.31d282d2.chunk.js.LICENSE.txt": "/farm-website/static/js/2.31d282d2.chunk.js.LICENSE.txt",
     "static/media/Bea Egg.jpg": "/farm-website/static/media/Bea Egg.7173b662.jpg",
     "static/media/Bea.jpg": "/farm-website/static/media/Bea.87b776ab.jpg",
     "static/media/Belinda Egg.jpg": "/farm-website/static/media/Belinda Egg.ec7e9a8d.jpg",
@@ -29,12 +29,16 @@
     "static/media/Pearl.jpg": "/farm-website/static/media/Pearl.f706d31c.jpg",
     "static/media/Poppy Egg.jpg": "/farm-website/static/media/Poppy Egg.b57941dc.jpg",
     "static/media/Poppy.jpg": "/farm-website/static/media/Poppy.989b4b0c.jpg",
-    "static/media/Ruth.jpg": "/farm-website/static/media/Ruth.82c65ed6.jpg"
+    "static/media/Ruth.jpg": "/farm-website/static/media/Ruth.82c65ed6.jpg",
+    "static/media/goat.jpg": "/farm-website/static/media/goat.87627183.jpg",
+    "static/media/horse.jpg": "/farm-website/static/media/horse.91523a00.jpg",
+    "static/media/omalley.jpg": "/farm-website/static/media/omalley.2dfda241.jpg",
+    "static/media/schwimmer.jpg": "/farm-website/static/media/schwimmer.80ebb4a9.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4dcd9827.js",
-    "static/js/2.cc0d36e5.chunk.js",
-    "static/css/main.fe066393.chunk.css",
-    "static/js/main.822a8977.chunk.js"
+    "static/js/2.31d282d2.chunk.js",
+    "static/css/main.90946b3f.chunk.css",
+    "static/js/main.fc0cce84.chunk.js"
   ]
 }
