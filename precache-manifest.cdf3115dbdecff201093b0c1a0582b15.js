@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "34ab8c4c6a3c539fd1b21914fbb226c8",
+    "revision": "9164cbb47ee204603db83fe1abf9b115",
     "url": "/farm-website/index.html"
   },
   {
-    "revision": "15bc2c87dc716c4efa69",
-    "url": "/farm-website/static/css/main.4c65c8dc.chunk.css"
+    "revision": "289820e72954bd136ddf",
+    "url": "/farm-website/static/css/main.fe066393.chunk.css"
   },
   {
-    "revision": "b279bb38f162fd8e0ed7",
-    "url": "/farm-website/static/js/2.109d0675.chunk.js"
+    "revision": "847419d78ed81163a40a",
+    "url": "/farm-website/static/js/2.cc0d36e5.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/farm-website/static/js/2.109d0675.chunk.js.LICENSE.txt"
+    "url": "/farm-website/static/js/2.cc0d36e5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "15bc2c87dc716c4efa69",
-    "url": "/farm-website/static/js/main.fb3e6c7e.chunk.js"
+    "revision": "289820e72954bd136ddf",
+    "url": "/farm-website/static/js/main.822a8977.chunk.js"
   },
   {
     "revision": "fda3acdc5488a586e116",
@@ -94,9 +94,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "82c65ed60ef1dbccfa356b1239ee7575",
     "url": "/farm-website/static/media/Ruth.82c65ed6.jpg"
-  },
-  {
-    "revision": "8d2420954339276928f0b001e5b5db85",
-    "url": "/farm-website/static/media/home_hq_2.8d242095.jpg"
   }
 ]);
